@@ -1,0 +1,10 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background: linear-gradient(45deg, rgb(88, 14, 105), rgb(8, 49, 136));
+}
+
+#quadro {
+    background-image: image-set('space.jpg')
+}
+

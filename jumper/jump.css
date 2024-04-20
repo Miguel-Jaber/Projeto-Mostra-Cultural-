@@ -1,0 +1,15 @@
+body {
+   text-align: center;
+   
+}
+
+#board {
+    background-color: Sienna;
+    background-image: url("./fnd.png");
+}
+
+h1 {
+    font-language-override: 20px;
+    color: black
+
+}
